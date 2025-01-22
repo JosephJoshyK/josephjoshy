@@ -270,6 +270,25 @@ div.responsive-picture.travel-image {
   }
 }
 
+@media screen and (min-width: 485px) {
+  /* Text Elements */
+
+  p.paragraph span.paragraph-text-1 {
+    color: #698340;
+    font-size: 41px;
+  }
+
+  /* Layout Elements */
+
+  body > .row > [class*='col-xs-'].column-2 {
+    min-height: 500px;
+  }
+
+  body > .row > [class*='col-xs-'].column-3 {
+    min-height: 500px;
+  }
+}
+
 @media screen and (min-width: 768px) {
   /* Layout Elements */
 

@@ -189,11 +189,6 @@ body > .row > [class*='col-xs-'].footer-column {
      -moz-box-direction: normal;
 }
 
-div.responsive-picture.hero-image {
-  margin-bottom: .437rem;
-  max-width: none;
-}
-
 div.responsive-picture.travel-image {
   margin: .437rem auto;
   max-width: 20.625rem;
@@ -241,32 +236,9 @@ div.responsive-picture.travel-image {
        -moz-box-direction: normal;
   }
 
-  body > .row > [class*='col-xs-'].column-1 {
-    float: right;
-    clear: both;
-  }
-
   div.responsive-picture.travel-image {
     margin: .436rem auto;
     max-width: 20.625rem;
-  }
-
-  div.responsive-picture.hero-image {
-    position: static;
-    float: none;
-    clear: none;
-    width: 60%;
-
-    -webkit-align-self: auto;
-    -ms-flex-item-align: auto;
-            align-self: auto;
-  }
-
-  div.responsive-picture.hero-image > picture > img {
-    -o-object-position: center center;
-       object-position: center center;
-    -o-object-fit: contain;
-       object-fit: contain;
   }
 }
 

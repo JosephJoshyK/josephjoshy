@@ -12198,6 +12198,229 @@ ul.icons li [class*=" coffeecup-icons-"] {
 }
 }
 
+@media screen and (min-width: 894px) {
+.row [class*="custom-894-col-sm-"] {
+  padding-left:15px;
+  padding-right:15px;
+  float:left;
+}
+
+.row .custom-894-col-sm-1 {
+  width:8.333333333333332%;
+}
+
+.row .custom-894-col-sm-2 {
+  width:16.666666666666664%;
+}
+
+.row .custom-894-col-sm-3 {
+  width:25%;
+}
+
+.row .custom-894-col-sm-4 {
+  width:33.33333333333333%;
+}
+
+.row .custom-894-col-sm-5 {
+  width:41.666666666666664%;
+}
+
+.row .custom-894-col-sm-6 {
+  width:50%;
+}
+
+.row .custom-894-col-sm-7 {
+  width:58.33333333333333%;
+}
+
+.row .custom-894-col-sm-8 {
+  width:66.66666666666666%;
+}
+
+.row .custom-894-col-sm-9 {
+  width:75%;
+}
+
+.row .custom-894-col-sm-10 {
+  width:83.33333333333333%;
+}
+
+.row .custom-894-col-sm-11 {
+  width:91.66666666666666%;
+}
+
+.row .custom-894-col-sm-12 {
+  width:100%;
+}
+
+[class*="custom-894-col-sm-"]>.subgrid  {
+  margin-left:-15px;
+  margin-right:-15px;
+}
+
+.row .custom-894-col-sm-offset-0 {
+  margin-left:0%;
+}
+
+.row .custom-894-col-sm-offset-1 {
+  margin-left:8.333333333333332%;
+}
+
+.row .custom-894-col-sm-offset-2 {
+  margin-left:16.666666666666664%;
+}
+
+.row .custom-894-col-sm-offset-3 {
+  margin-left:25%;
+}
+
+.row .custom-894-col-sm-offset-4 {
+  margin-left:33.33333333333333%;
+}
+
+.row .custom-894-col-sm-offset-5 {
+  margin-left:41.666666666666664%;
+}
+
+.row .custom-894-col-sm-offset-6 {
+  margin-left:50%;
+}
+
+.row .custom-894-col-sm-offset-7 {
+  margin-left:58.33333333333333%;
+}
+
+.row .custom-894-col-sm-offset-8 {
+  margin-left:66.66666666666666%;
+}
+
+.row .custom-894-col-sm-offset-9 {
+  margin-left:75%;
+}
+
+.row .custom-894-col-sm-offset-10 {
+  margin-left:83.33333333333333%;
+}
+
+.row .custom-894-col-sm-offset-11 {
+  margin-left:91.66666666666666%;
+}
+
+.row [class*="custom-894-col-sm-push-"] {
+  position:relative;
+}
+
+.row .custom-894-col-sm-push-11 {
+  left:91.66666666666666%;
+}
+
+.row .custom-894-col-sm-push-10 {
+  left:83.33333333333333%;
+}
+
+.row .custom-894-col-sm-push-9 {
+  left:75%;
+}
+
+.row .custom-894-col-sm-push-8 {
+  left:66.66666666666666%;
+}
+
+.row .custom-894-col-sm-push-7 {
+  left:58.33333333333333%;
+}
+
+.row .custom-894-col-sm-push-6 {
+  left:50%;
+}
+
+.row .custom-894-col-sm-push-5 {
+  left:41.666666666666664%;
+}
+
+.row .custom-894-col-sm-push-4 {
+  left:33.33333333333333%;
+}
+
+.row .custom-894-col-sm-push-3 {
+  left:25%;
+}
+
+.row .custom-894-col-sm-push-2 {
+  left:16.666666666666664%;
+}
+
+.row .custom-894-col-sm-push-1 {
+  left:8.333333333333332%;
+}
+
+.row .custom-894-col-sm-push-0 {
+  left:auto;
+}
+
+.row [class*="custom-894-col-sm-pull-"] {
+  position:relative;
+}
+
+.row .custom-894-col-sm-pull-11 {
+  right:91.66666666666666%;
+}
+
+.row .custom-894-col-sm-pull-10 {
+  right:83.33333333333333%;
+}
+
+.row .custom-894-col-sm-pull-9 {
+  right:75%;
+}
+
+.row .custom-894-col-sm-pull-8 {
+  right:66.66666666666666%;
+}
+
+.row .custom-894-col-sm-pull-7 {
+  right:58.33333333333333%;
+}
+
+.row .custom-894-col-sm-pull-6 {
+  right:50%;
+}
+
+.row .custom-894-col-sm-pull-5 {
+  right:41.666666666666664%;
+}
+
+.row .custom-894-col-sm-pull-4 {
+  right:33.33333333333333%;
+}
+
+.row .custom-894-col-sm-pull-3 {
+  right:25%;
+}
+
+.row .custom-894-col-sm-pull-2 {
+  right:16.666666666666664%;
+}
+
+.row .custom-894-col-sm-pull-1 {
+  right:8.333333333333332%;
+}
+
+.row .custom-894-col-sm-pull-0 {
+  right:auto;
+}
+
+.show_grid_structure>.row {
+  background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin" width="100%" height="100%"><g style="fill:#FFF; fill-opacity:0; stroke:rgb(200,200,200); stroke-opacity:0.16; stroke-width:30px"><rect width="8.333333333333332%" height="200%" y="-50%" x="-8.333333333333332%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="0%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="8.333333333333332%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="16.666666666666664%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="24.999999999999996%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="33.33333333333333%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="41.66666666666666%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="49.99999999999999%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="58.33333333333333%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="66.66666666666666%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="74.99999999999999%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="83.33333333333331%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="91.66666666666666%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="99.99999999999999%"></rect></g></svg>');
+  background-repeat:no-repeat, no-repeat;
+}
+
+.show_subgrid_structure>.row .row {
+  background-image:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin" width="100%" height="100%"><g style="fill:#FFF; fill-opacity:0; stroke:rgb(200,200,200); stroke-opacity:0.16; stroke-width:30px"><rect width="8.333333333333332%" height="200%" y="-50%" x="-8.333333333333332%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="0%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="8.333333333333332%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="16.666666666666664%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="24.999999999999996%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="33.33333333333333%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="41.66666666666666%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="49.99999999999999%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="58.33333333333333%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="66.66666666666666%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="74.99999999999999%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="83.33333333333331%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="91.66666666666666%"></rect><rect width="8.333333333333332%" height="200%" y="-50%" x="99.99999999999999%"></rect></g></svg>');
+  background-repeat:no-repeat, no-repeat;
+}
+}
+
 @media screen and (min-width: 992px) {
 .row [class*="col-md-"] {
   padding-left:15px;
